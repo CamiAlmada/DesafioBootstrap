@@ -1,0 +1,10 @@
+.effect{
+    transition: box-shadow 0.3s ;
+}
+.effect:hover {
+    box-shadow: 0 25px -15px rgb(0, 0, 0, 0.9) ;
+}
+
+.bg {
+ background-image: linear-gradient(to left rgb(32, 105, 32) rgb(70, 164, 70));
+}
